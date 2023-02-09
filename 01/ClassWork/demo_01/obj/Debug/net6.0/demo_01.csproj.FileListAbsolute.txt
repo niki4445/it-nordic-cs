@@ -1,0 +1,15 @@
+C:\Users\folsm\OneDrive\Рабочий стол\Visual .NET_demo\demos\demo_01\bin\Debug\net6.0\demo_01.exe
+C:\Users\folsm\OneDrive\Рабочий стол\Visual .NET_demo\demos\demo_01\bin\Debug\net6.0\demo_01.deps.json
+C:\Users\folsm\OneDrive\Рабочий стол\Visual .NET_demo\demos\demo_01\bin\Debug\net6.0\demo_01.runtimeconfig.json
+C:\Users\folsm\OneDrive\Рабочий стол\Visual .NET_demo\demos\demo_01\bin\Debug\net6.0\demo_01.dll
+C:\Users\folsm\OneDrive\Рабочий стол\Visual .NET_demo\demos\demo_01\bin\Debug\net6.0\demo_01.pdb
+C:\Users\folsm\OneDrive\Рабочий стол\Visual .NET_demo\demos\demo_01\obj\Debug\net6.0\demo_01.csproj.AssemblyReference.cache
+C:\Users\folsm\OneDrive\Рабочий стол\Visual .NET_demo\demos\demo_01\obj\Debug\net6.0\demo_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\folsm\OneDrive\Рабочий стол\Visual .NET_demo\demos\demo_01\obj\Debug\net6.0\demo_01.AssemblyInfoInputs.cache
+C:\Users\folsm\OneDrive\Рабочий стол\Visual .NET_demo\demos\demo_01\obj\Debug\net6.0\demo_01.AssemblyInfo.cs
+C:\Users\folsm\OneDrive\Рабочий стол\Visual .NET_demo\demos\demo_01\obj\Debug\net6.0\demo_01.csproj.CoreCompileInputs.cache
+C:\Users\folsm\OneDrive\Рабочий стол\Visual .NET_demo\demos\demo_01\obj\Debug\net6.0\demo_01.dll
+C:\Users\folsm\OneDrive\Рабочий стол\Visual .NET_demo\demos\demo_01\obj\Debug\net6.0\refint\demo_01.dll
+C:\Users\folsm\OneDrive\Рабочий стол\Visual .NET_demo\demos\demo_01\obj\Debug\net6.0\demo_01.pdb
+C:\Users\folsm\OneDrive\Рабочий стол\Visual .NET_demo\demos\demo_01\obj\Debug\net6.0\demo_01.genruntimeconfig.cache
+C:\Users\folsm\OneDrive\Рабочий стол\Visual .NET_demo\demos\demo_01\obj\Debug\net6.0\ref\demo_01.dll
